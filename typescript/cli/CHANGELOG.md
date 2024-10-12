@@ -1,5 +1,19 @@
 # @hyperlane-xyz/cli
 
+## 5.6.0
+
+### Minor Changes
+
+- a4d5d692f: Update `warp apply` such that it updates in place AND extends in a single call
+
+### Patch Changes
+
+- e89f9e35d: Update registry to v4.7.0
+- Updated dependencies [46044a2e9]
+- Updated dependencies [8001bbbd6]
+  - @hyperlane-xyz/sdk@5.6.0
+  - @hyperlane-xyz/utils@5.6.0
+
 ## 5.5.0
 
 ### Patch Changes
